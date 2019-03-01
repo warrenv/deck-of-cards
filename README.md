@@ -1,4 +1,5 @@
-This is an exercise to create a shuffled deck of cards using javascript.
+This is an exercise to create a shuffled deck of cards using javascript based on [this article](https://gomakethings.com/how-to-shuffle-an-array-with-vanilla-js/).
+
 Tested on node 11 but anything >= 8 should work.
 
 - Install packages and verify code:
