@@ -1,0 +1,25 @@
+{
+  "name": "deck-of-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "esm": "3.2.7"
+  },
+  "devDependencies": {
+    "eslint": "5.14.1",
+    "eslint-config-standard": "12.0.0",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-node": "8.0.1",
+    "eslint-plugin-promise": "4.0.1",
+    "eslint-plugin-standard": "4.0.0",
+    "riteway": "6.0.2"
+  },
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore -- .",
+    "test": "node -r esm index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
